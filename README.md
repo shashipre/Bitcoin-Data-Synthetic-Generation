@@ -1,6 +1,7 @@
 # 📈 Bitcoin Synthetic Data Generation using TimeGAN
 ## 📌 Presentation
-📽️ **[View Presentation Slides](https://docs.google.com/presentation/d/1YMDNOevPmfwfIVwWTzi_FGmIROMQOZIaA2c9mut9Mtw/edit?usp=sharing)**
+📽️ **[View TimeGAN Presentation Slides](https://docs.google.com/presentation/d/1lN8yLNwCfYYSxcNYy593ZS0dASMCBP44/edit?slide=id.p1#slide=id.p1)**
+
 
 This project focuses on generating **realistic synthetic Bitcoin time-series data** using **TimeGAN (Time-series Generative Adversarial Network)**.  
 The model learns the temporal patterns and trends from real Bitcoin market data and produces synthetic sequences that look similar to the original data.
